@@ -2,7 +2,7 @@
 
 function base64_validate(string $str = ''): bool{}
 
-class PHPConBR
+class PHPConfBR
 {
     public function base64_validate(string $str = ''): bool {}
 }

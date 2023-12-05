@@ -9,7 +9,7 @@ A extensão criada, adiciona uma função nomeada `base64_validate()`, além de uma 
 
 function base64_validate(string $str = ''): bool{}
 
-class PHPConBR
+class PHPConfBR
 {
     public function base64_validate(string $str = ''): bool {}
 }
