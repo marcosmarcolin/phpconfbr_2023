@@ -2,7 +2,7 @@
 
 Este repositório exemplifica conceitos abordados durante a minha apresentação na **PHP Conference Brasil 2023**.
 
-A extensão criada, adiciona uma função nomeada `base64_validate()`, além de uma classe chamada `PHPConBR`, com as seguintes assinaturas:
+A extensão criada, adiciona uma função nomeada `base64_validate()`, além de uma classe chamada `PHPConfBR`, com as seguintes assinaturas:
 
 ```php
 <?php
